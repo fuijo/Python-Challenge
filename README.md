@@ -13,8 +13,7 @@ Identified the greatest increase in profits (date and amount).
 Found the greatest decrease in profits (date and amount).
 
 **Results:**
-yaml
-Copy code
+
 Financial Analysis
 ----------------------------
 Total Months: 86
